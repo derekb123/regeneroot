@@ -9,6 +9,7 @@
   publish = "client/"
 
   # Default build command.
+  # update to create production branch
   command = "npm run build"
 
 [build.environment]
